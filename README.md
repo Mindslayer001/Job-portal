@@ -1,11 +1,7 @@
-# django-job-portal
+# Job-portal
 Job portal application using django
-### Live : [Demo](https://job-portal-11.herokuapp.com/)
-### DATABASE
-#### Local : Sqlite
-#### Live : postgresql
 
-[![HitCount](http://hits.dwyl.com/{nazmul199512}/{django-job-portal}.svg)](http://hits.dwyl.com/{nazmul199512}/{django-job-portal})
+
 
 ## Screen Shots
 <br/>
