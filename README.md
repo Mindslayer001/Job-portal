@@ -1,12 +1,7 @@
 # Job-portal
 Job portal application using django
 
-
-
 ## Screen Shots
-<br/>
-<br/>
-
 
 ![](ss1.png)
 <br/>
